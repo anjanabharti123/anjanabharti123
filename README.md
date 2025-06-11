@@ -1,21 +1,22 @@
 <h1 align="center">Hi there 👋, I'm Anjana Bharti</h1>
 <h3 align="center">Aspiring Java Backend Developer | Passionate About Building APIs & Learning Data Structures</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
-</p>
-
 ---
 
-### 🚀 About Me
+<table> <tr> <td>
+🎓 I'm a Java Backend Developer (Fresher) with a strong foundation in backend technologies.
 
-- 🎓 I'm a **Java Backend Developer (Fresher)** with a strong foundation in backend technologies.
-- 🧠 Practicing DSA regularly to sharpen problem-solving skills.
-- 🛠️ I build scalable backend applications using **Spring Boot**, **Hibernate**, **RESTful APIs**, and **MySQL**.
-- 🌱 Currently working on a **Food Ordering System** backend project.
-- 👀 Always open to learning, collaboration, and new opportunities.
-- 🔍 I’m currently open to entry-level opportunities in backend development.
+🧠 Practicing DSA regularly to sharpen problem-solving skills.
 
+🛠️ I build scalable backend applications using Spring Boot, Hibernate, RESTful APIs, and MySQL.
+
+🌱 Currently working on a Food Ordering System backend project.
+
+👀 Always open to learning, collaboration, and new opportunities.
+
+🔍 I’m currently open to entry-level opportunities in backend development.
+
+</td> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" /> </td> </tr> </table>
 
 ---
 
